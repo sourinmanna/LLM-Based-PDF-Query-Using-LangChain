@@ -1,0 +1,10 @@
+# langchain   # LLM library
+# chromadb    # Vector Storage  
+# pypdf       # Loading pdf
+# pytest      # unit testing
+cassio  
+langchain  
+PyPDF2
+gradio
+langchain_google_genai
+langchain-community
